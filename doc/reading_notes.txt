@@ -1,5 +1,6 @@
 Shiva Saw The End Of Time
 
+
 Shadow RL
 
 X-CARD -> banned from the game
@@ -8,27 +9,28 @@ X-CARD -> banned from the game
  X Sex
  REASON -> cannot involve myself without consent of all parties involved
 
-Physical/Social Attributes (+/- 3)
-  Energy
-   -> potential energy
-  Clarity
-   -> visual awareness
-  Reputation 
-   -> social credit
-  Perception
-   -> social awareness
+Attributes (+/- 3) (sum 3)
+ Energy
+  -> motion
+ Clarity 
+  -> observation
+ Reputation 
+  -> credit
 
-Economic Involvement (+/- 3)
- Labor
-  -> flyweight
- Security
-  -> observer
+Economies (+/- 3) (sum 3)
+ Customs
  Finance
-  -> prototype
  Science
-  -> singleton
 
-Action
+Actions -> Advance Time
+ Observe
+  -> observe an Economy via an Attribute
+ Move
+  -> subtract from an Attribute in order to weight an Observation
+  -> e.g. place a +1 Move on Energy in order to Observe Vampire Customs at the Nightclub
+ Rest
+  -> release a Move that has been placed on an Attribute
+
 Character Design
 Initial Relationships
 
